@@ -1,6 +1,5 @@
 '''
-You have been given partial code. The objective is to reproduce the output as shown in the picture
-on Canvas.
+You have been given partial code. The objective is to reproduce the output as shown in the file - Output.png
 1) Create an instance of the Course object
 2) Create an instance of the Register object for EACH student in the students list using a For loop.
 3) Print out the student name, course name, CRN and number of seats left for each iteration using
